@@ -1,4 +1,4 @@
-[My Reddit Clone](https://github.com/BelieveC/Rails_RedditClone)
+[My Reddit Clone](https://cwayreddit.herokuapp.com/)
 ====================================
 
 Features of Reddit Clone
