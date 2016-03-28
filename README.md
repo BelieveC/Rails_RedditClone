@@ -9,7 +9,7 @@ Features of Reddit Clone
 * [Show Link(Signed In View)(With Comment and Upvote Feature)](https://raw.githubusercontent.com/BelieveC/Rails_RedditClone/master/PreviewImages/showl.png)
 * [Show Link](https://raw.githubusercontent.com/BelieveC/Rails_RedditClone/master/PreviewImages/show.png)
 * [New Link](https://raw.githubusercontent.com/BelieveC/Rails_RedditClone/master/PreviewImages/new.png)
-* [Comment Panel](https://raw.githubusercontent.com/BelieveC/Rails_RedditClone/master/PreviewImages/comment.png)
+* [Comment Panel](https://raw.githubusercontent.com/BelieveC/Rails_RedditClone/master/PreviewImages/comments.png)
 * [Login](https://raw.githubusercontent.com/BelieveC/Rails_RedditClone/master/PreviewImages/login.png)
 * [Edit Account](https://raw.githubusercontent.com/BelieveC/Rails_RedditClone/master/PreviewImages/edituser.png)
 * [Sign Up](https://raw.githubusercontent.com/BelieveC/Rails_RedditClone/master/PreviewImages/signup.png)
